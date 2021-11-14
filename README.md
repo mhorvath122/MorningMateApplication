@@ -8,4 +8,4 @@ This application is a Morning Application, which has alarm function, it provides
 
 The Main Screen navigation between functions, which are actually independent apps. On top we can see the name of the application and our slogen, little bit downer there's today's date, and in the bottom there's the funcs.   
 
-<img src="./README_IMAGES/MainScreen.png" width="500" align="middle"> 
+<img src="./README_IMAGES/MainScreen.jpg" width="500" align="middle"> 
